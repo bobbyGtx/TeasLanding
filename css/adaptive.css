@@ -1,0 +1,25 @@
+/*Стили от 1024 пикс до 1230пикс*/
+@media screen and (max-width: 1229px) {
+
+}
+
+/*Стили от 768 пикс до 1023пикс*/
+@media screen and (max-width: 1023px) {
+
+}
+
+/*Стили от 425 пикс до 767пикс*/
+@media screen and (max-width: 767px) {
+
+}
+
+/*Стили от 375 пикс до 424пикс*/
+@media screen and (max-width: 424px) {
+
+
+}
+
+/*Стили от 320 пикс до 374пикс*/
+@media screen and (max-width: 374px) {
+
+}
